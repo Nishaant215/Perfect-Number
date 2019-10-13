@@ -1,4 +1,4 @@
-# Perfect-Number
+# Perfect Number
 In number theory, a perfect number is a positive integer that equals to the sum of its positive factors, excluding the number itself.
 For instance, 6 has factors 1, 2 and 3 (excluding itself), so 1 + 2 + 3 = 6, so 6 is a perfect number.
 
